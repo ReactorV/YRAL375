@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YRAL375
-- 👀 I’m interested in JavaScript(React.js, Node.js)
+- 👀 I’m interested in Frontend development, JavaScript(React.js, Node.js)
 - 🌱 I’m currently learning Node.js (Express)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vvoitkus@mail.ru
